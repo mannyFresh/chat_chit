@@ -1,5 +1,13 @@
-
 This is the sample twitter application I built to learn Ruby on Rails.
 
 Users can create Microposts and Follow other Users.
 
+
+
+
+
+-# Ruby on Rails Tutorial: sample application
+ 
+-This is the sample application for
+-[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+-by [Michael Hartl](http://michaelhartl.com/).
